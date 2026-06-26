@@ -1,2 +1,17 @@
-# DyslexiaMIND
-DyslexiaMIND is a multimodal dataset of bilingual Pakistani children (7–9 years). It captures 9,000+ responses across English/Urdu tasks. Features include audio, video, reading, and digital handwriting images synced with text spreadsheets. It maps 5 core cognitive domains verified by experts along with 3 dyslexia assessments. Ideal for AI research.
+# DyslexiaMIND Dataset
+
+DyslexiaMIND (Dyslexia Multimodal Integrated Neurocognitive Dataset) is a multimodal dataset capturing over 9,000 responses from 65 bilingual Pakistani children (aged 7–9) across English and Urdu language tasks. It features synchronized audio, video, reading, and digital handwriting data spanning 5 core cognitive domains.
+
+## 🔒 Data Access Policy
+To safeguard the privacy of the underage participants, the raw dataset (including audio, video, and handwriting images) is strictly restricted to academic research use only. It is not hosted publicly in this repository.
+
+### How to Request Access
+To request access to the DyslexiaMIND dataset, please send an email to: **[YOUR EMAIL HERE]**
+
+Please ensure your email includes:
+1. **Subject Line:** DyslexiaMIND Data Access Request - [Your Name/Institution]
+2. **Official Institutional Email:** Requests from personal accounts (Gmail, Yahoo, etc.) will not be processed.
+3. **Research Purpose:** A brief 2-3 sentence summary of how you intend to use the dataset in your research.
+4. **Affiliation:** Your current role (e.g., Professor, PhD Candidate, Researcher) and your institution's name.
+
+Upon review and verification of your academic credentials, we will securely share the data access link with you.
