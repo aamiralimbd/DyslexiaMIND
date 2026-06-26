@@ -6,7 +6,7 @@ DyslexiaMIND (Dyslexia Multimodal Integrated Neurocognitive Dataset) is a multim
 To safeguard the privacy of the underage participants, the raw dataset (including audio, video, and handwriting images) is strictly restricted to academic research use only. It is not hosted publicly in this repository.
 
 ### How to Request Access
-To request access to the DyslexiaMIND dataset, please send an email to: **[YOUR EMAIL HERE]**
+To request access to the DyslexiaMIND dataset, please send an email to: aamiralimbd@gmail.com; 01-284202-002@student.bahria.edu.pk; sumairakausar.buic@bahria.edu.pk
 
 Please ensure your email includes:
 1. **Subject Line:** DyslexiaMIND Data Access Request - [Your Name/Institution]
